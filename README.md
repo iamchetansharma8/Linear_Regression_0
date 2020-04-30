@@ -1,6 +1,7 @@
 # Linear_Regression_0
 Linear Regression with Python and Scikit Learn
-Predicting the house price
+
+Predicting the house price with Linear Regression.
 
 The data contains the following columns:
 
